@@ -18,7 +18,7 @@
 ![Homepage](./screenshots/homepage.png)
 
 ### 2. Order Page
-![Order Page](./proj/restaurant website/screenshots/Order.png)
+![Order Page]([./proj/restaurant website/screenshots/Order.png](url))
 
 ### 3. Special Offers
 ![Special Offers](./screenshots/special_offers.png)
