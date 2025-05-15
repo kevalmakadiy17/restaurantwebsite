@@ -1,0 +1,11 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="32" cy="32" r="32" fill="#FF7F32"/>
+  <g>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="bold" fill="white">FE</text>
+  </g>
+  <g>
+    <path d="M20 44 Q32 36 44 44" stroke="#fff" stroke-width="2.5" fill="none"/>
+    <rect x="28" y="24" width="3" height="10" rx="1.5" fill="#fff"/>
+    <rect x="33" y="24" width="3" height="10" rx="1.5" fill="#fff"/>
+  </g>
+</svg> 

@@ -1,0 +1,5 @@
+<img 
+  src="https://placehold.co/64x64?text=Logo" 
+  alt="FoodExpress Logo"
+  className="h-16 w-16 object-cover rounded-full shadow-md"
+/> 

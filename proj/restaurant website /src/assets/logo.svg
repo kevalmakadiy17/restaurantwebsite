@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="#FF6B35"/>
+  
+  <!-- Utensils Icon -->
+  <path d="M70 40V160M130 40V160" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  <path d="M70 100H130" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- Fork -->
+  <path d="M60 40L80 40L75 70L65 70L60 40Z" fill="white"/>
+  <path d="M65 70L75 70L70 100L70 100L65 70Z" fill="white"/>
+  
+  <!-- Knife -->
+  <path d="M120 40L140 40L135 70L125 70L120 40Z" fill="white"/>
+  <path d="M125 70L135 70L130 100L130 100L125 70Z" fill="white"/>
+  
+  <!-- Plate -->
+  <circle cx="100" cy="100" r="30" stroke="white" stroke-width="4"/>
+</svg> 
